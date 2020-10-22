@@ -34,3 +34,9 @@ html {
     display: none;
   }
 }
+
+@media (max-width: 399px) {
+  #tel-ost > a > h3 {
+    font-size: 15px;
+  }
+}
